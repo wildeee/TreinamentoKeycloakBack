@@ -1,0 +1,8 @@
+{
+  "realm": "Treinamento",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "node-server",
+  "public-client": true,
+  "confidential-port": 0
+}
